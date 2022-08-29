@@ -1,0 +1,15 @@
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\bin\Debug\net6.0\BlockBreaker.exe
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\bin\Debug\net6.0\BlockBreaker.deps.json
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\bin\Debug\net6.0\BlockBreaker.runtimeconfig.json
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\bin\Debug\net6.0\BlockBreaker.dll
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\bin\Debug\net6.0\BlockBreaker.pdb
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\obj\Debug\net6.0\BlockBreaker.csproj.AssemblyReference.cache
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\obj\Debug\net6.0\BlockBreaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\obj\Debug\net6.0\BlockBreaker.AssemblyInfoInputs.cache
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\obj\Debug\net6.0\BlockBreaker.AssemblyInfo.cs
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\obj\Debug\net6.0\BlockBreaker.csproj.CoreCompileInputs.cache
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\obj\Debug\net6.0\BlockBreaker.dll
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\obj\Debug\net6.0\refint\BlockBreaker.dll
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\obj\Debug\net6.0\BlockBreaker.pdb
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\obj\Debug\net6.0\BlockBreaker.genruntimeconfig.cache
+C:\Users\stens\Source\Repos\BlockBreaker\BlockBreaker\obj\Debug\net6.0\ref\BlockBreaker.dll
